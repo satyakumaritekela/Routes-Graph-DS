@@ -1,0 +1,40 @@
+Assignment 3
+------------
+
+Test Cases
+----------
+
+newIntersection
+		-	Provide x,y coordinates with integer values
+		-	Provide x,y coordinates with zero value
+		-	Provide x,y coordinates with null values
+		-	Provide x,y coordinates with negative integer values		
+		-	Provide x,y coordinates with non-integer values
+		-	Provide x,y coordinates with null values
+		
+defineRoad
+		-	Provide x1,y1,x2,y2 coordinates with integer values
+		-	Provide x1,y1,x2,y2 coordinates with zero value
+		-	Provide x1,y1,x2,y2 coordinates with null values
+		-	Provide x1,y1,x2,y2 coordinates with negative integer values		
+		-	Provide x1,y1,x2,y2 coordinates with non-integer values
+		-	Provide x1,y1,x2,y2 coordinates with null values
+		-	Provide the coordinates with the intersections already exists in the map
+		-	Provide the coordinates with the intersections does not exists in the map
+		-	Provide the coordinates for the road already defined
+		-	Provide same x,y coordinates i.e., x1=x2; y1=y2 ( source and destination intersections are same )
+		-   Provide coordinate values with maximum integer values
+
+navigate
+		-	Provide x1,y1,x2,y2 coordinates with integer values
+		-	Provide x1,y1,x2,y2 coordinates with zero value
+		-	Provide x1,y1,x2,y2 coordinates with null values
+		-	Provide x1,y1,x2,y2 coordinates with negative integer values		
+		-	Provide x1,y1,x2,y2 coordinates with non-integer values
+		-	Provide x1,y1,x2,y2 coordinates with null values
+		-	Provide the coordinates with the intersections already exists in the map
+		-	Provide the coordinates with the intersections does not exists in the map
+		-	provide same x,y coordinates i.e., x1=x2; y1=y2 ( source and destination intersections are same )
+		-	Provide the intersections that are not connected in the path
+		-	provide the coordinates that are connected with different lengths
+		-   Provide coordinate values with maximum integer values
